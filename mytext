@@ -1,0 +1,6 @@
+Redux is a Javascript framework.
+Redux is a state container.
+Redux is a collection of all the data that describes the application.
+which is not only includes hot data like list of books but also meta level data like what is the currently selected book.
+
+The special differenciation about the Redux is it maintains all the app data in centralized single object which refers to state.
